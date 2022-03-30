@@ -1,4 +1,9 @@
 # vite-plugin-federation issue reproduction
+Techs used:
+- npm@8.4.1
+- node@16.14.0
+- @originjs/vite-plugin-federation@1.1.3
+- single-spa@5.9.3
 
 ## Issue
 ```
