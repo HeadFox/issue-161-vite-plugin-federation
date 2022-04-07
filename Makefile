@@ -7,7 +7,7 @@ run-remote:
 	cd webpack-remote-project && npm run preview
 
 run-host-vite:
-	cd vite-host-project && npm run preview
+	cd vite-host-project && npm run build && npm run preview
 
 run-host-webpack:
 	cd webpack-host-project && npm run preview
